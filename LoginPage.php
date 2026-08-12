@@ -117,7 +117,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </form>
 
     <hr>
-
+    <p>Don't have an account? <a href="RegisterPage.php" style="color: #007bff;">Register here</a></p>
   </div>
 </body>
 </html>
