@@ -249,7 +249,7 @@ $foods = $conn->query("SELECT FnbID, FnbName, Price FROM fnb");
 
     <hr>
 
-    <p><a style="color: #222;" href="LoginPage.php">Back to Login</a></p>
+    <p><a href="LoginPage.php" style="color: #007bff;">Back to Login</a></p>
   </div>
 </body>
 </html>
