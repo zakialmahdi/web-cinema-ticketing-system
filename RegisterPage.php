@@ -116,7 +116,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     </form>
 
     <hr>
-
+    <p>Already have an account? <a href="LoginPage.php" style="color: #007bff;">Login here</a></p>
   </div>
 </body>
 </html>
